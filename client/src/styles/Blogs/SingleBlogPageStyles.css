@@ -1,0 +1,18 @@
+.single-blog-card a {
+    color: var(--color-777777);
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.single-blog-card h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--color-1c1c1b);
+}
+
+.single-blog-card p {
+    color: var(--color-777777);
+    font-size: 18px;
+}

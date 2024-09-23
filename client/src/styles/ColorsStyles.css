@@ -1,0 +1,15 @@
+.colors {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+.colors li {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+}
